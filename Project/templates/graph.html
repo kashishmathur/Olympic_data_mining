@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Graphical Representation</title>
+
+	<style >
+		ul {
+  list-style-type: none;
+  margin: -10px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  width: 150px
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
+</head>
+<body>
+
+<div>
+<ul>
+  <li><a class="active" href="http://localhost:5000/main">HOME</a></li>
+  <li><a class="active" href="http://localhost:5000/visualizations">VISUALIZATIONS</a></li>
+  <li style="float:right"><a class="active" href="http://localhost:5000/about" >ABOUT</a></li>
+</ul>
+</div>
+
+<div style="margin-top: 40px">
+{{div_placeholder1}}
+{{div_placeholder2}}
+{{div_placeholder3}}
+</div>
+	
+</div>
+</body>
+</html>

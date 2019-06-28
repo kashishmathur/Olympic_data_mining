@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About - project</title>
+	<link rel="stylesheet" href="styles.css">
+	<style>
+		p{
+			font-family: serif;
+			font-size: 20px;
+			font-style: italic;
+			text-align: left;
+			margin-left: 40px;
+			margin-top: 30px;
+			text-decoration-color: #111;
+
+		}
+		ul {
+  list-style-type: none;
+  margin: -10px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  width: 150px
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+p{
+
+	font-size: 20px;font-family: Verdana;word-wrap: break-word;text-align: justify;
+}
+
+h1{
+margin-left: 40px;font-family: Bookhand;font-style: italic;text-decoration: underline;font-size: 37px;text-decoration: underline;
+background-color: rgba(0,255,0,0.5);width: 73%;height: auto;
+
+}
+pre{
+	font-size: 20px;font-family: Verdana;word-wrap: break-word;text-align: justify;
+	font-style: italic;
+	margin-left: 20px;
+}
+ 
+
+
+</style>
+
+
+</head>
+<body  background="https://usatftw.files.wordpress.com/2016/08/ap_rio_olympics_hockey_women_83868978.jpg?w=1000&h=670" style="background-position: center;
+background-repeat: no-repeat;background-size: cover; background-attachment: fixed; overflow-x: hidden;">
+<div>
+<ul>
+  <li><a class="active" href="http://localhost:5000/main">HOME</a></li>
+  <li><a class="active" href="http://localhost:5000/visualizations">VISUALIZATIONS</a></li>
+  <li style="float:right"><a class="active" href="http://localhost:5000/about" >ABOUT</a></li>
+</ul>
+</div>
+<div>
+	<h1 >ABOUT PROJECT</h1>
+</div>
+<div style="margin-left: 40px; word-wrap: break-word">
+	<div style="width: 73%;height: auto;background-color: rgba(248,255,107,0.7);">
+	<h3 style="font-size: 26px;" >GROUP MEMBERS</h3>
+	<pre >1. Gaurav Rajpurohit<br>	grv1881997@gmail.com<br><br>2. Gunjan Khandelwal<br>	 gunjan.k8411@gmail.com<br><br>3. Kashish Mathur<br>	kmathur1998@gmail.com<br><br></pre>
+	</div>
+	<div style="width: 73%;height: auto;background-color: rgba(255,105,97,0.7);">
+	<h3 style="font-size: 26px;">PROBLEM DESCRIPTION AND DATASET</h3>
+	<p >
+		According to historical records, the first ancient Olympic Games can be traced back to 776 BC. They were dedicated to the Olympian gods and were staged on the ancient plains of Olympia. They continued for nearly 12 centuries, until Emperor Theodosius decreed in 393 A.D. that all such "pagan cults" be banned. This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. The target is to analyse the data properly, visualizing various queries and using the unsupervised machine learning algorithm to divide the data into clusters. <br><br>
+	</p>
+	</div>
+	<div style="width: 73%;height: auto;background-color: rgba(176,157,185,0.7);">
+	<h3 style="font-size: 26px">OUR APPROACH</h3>
+	<p>
+	Our approach to the problem is very simple, we first retrieve the dataset that consists of all the athlete details participated in the Olympics till Rio 2016, dataset of all the host countries and the NOC codes assigned to all the countries participating. Then, we will check the dataset for some missing data i.e. the data pre-processing part. Then, we move towards visualizing the data using different methods like bar graph, pie chart, donut chart etc. <br><br></p>
+	</div>
+	<div style="width: 73%;height: auto;background-color: rgba(244,194,194,0.7);">
+	<h3 style="font-size: 26px;">RESULT</h3>
+	<p>	Finally, we compare the WCSS score and silhouette score to decide the number of cluster the data can be divided and choose the appropriate number of clusters.
+	</p>
+	</div>
+</div>
+</body>
+</html>

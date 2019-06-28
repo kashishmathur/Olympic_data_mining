@@ -1,0 +1,52 @@
+City,Country,Year,latitude,longitude,Season,Summer/Winter (S/W)
+Athens, Greece,1896.0,37.9833333,23.7333336,Summer,I
+Paris, France,1900.0,48.85341,2.3487999,Summer,II
+St. Louis, United States,1904.0,38.62727329999999,-90.1978912,Summer,III
+London, United Kingdom,1908.0,51.508415299999996,-0.1255327,Summer,IV
+Stockholm, Sweden,1912.0,59.3325765,18.0649033,Summer,V
+Antwerp, Belgium,1920.0,51.216666700000005,4.4166665,Summer,VII
+Chamonix, France,1924.0,45.9237,6.8694,Winter,I
+Paris, France,1924.0,48.85341,2.3487999,Summer,VIII
+St. Moritz,  Switzerland,1928.0,46.4908,9.8355,Winter,II
+Amsterdam, Netherlands,1928.0,52.3075,4.9722219,Summer,IX
+Lake Placid, United States,1932.0,27.2931,-81.36284599999999,Winter,III
+Los Angeles, United States,1932.0,34.0522342,-118.24368290000001,Summer,X
+Garmisch-Partenkirchen, Nazi Germany,1936.0,47.492090000000005,11.09576,Winter,IV
+Berlin, Nazi Germany,1936.0,52.5166667,13.3999996,Summer,XI
+St. Moritz,  Switzerland,1948.0,46.4908,9.8355,Winter,V
+London, United Kingdom,1948.0,51.508415299999996,-0.1255327,Summer,XIV
+Oslo, Norway,1952.0,60.175555599999996,24.934166,Winter,VI
+Helsinki, Finland,1952.0,60.1699,24.9384,Summer,XV
+Cortina d'Ampezzo, Italy,1956.0,46.5405,12.1357,Winter,VII
+Melbourne, Australia,1956.0,-37.8139966,144.9633179,Summer,XVI
+Squaw Valley, United States,1960.0,39.1963,-120.2336,Winter,VIII
+Rome, Italy,1960.0,41.9,12.4833336,Summer,XVII
+Innsbruck, Austria,1964.0,47.2666667,11.3999996,Winter,IX
+Tokyo, Japan,1964.0,35.6895266,139.69168090000002,Summer,XVIII
+Grenoble, France,1968.0,45.1666667,5.7166667,Winter,X
+Mexico City, Mexico,1968.0,19.4341667,-99.1386108,Summer,XIX
+Sapporo, Japan,1972.0,43.0547222,141.3538818,Winter,XI
+Munich, West Germany,1972.0,48.1351,11.582,Summer,XX
+Innsbruck, Austria,1976.0,47.2666667,11.3999996,Winter,XII
+Montreal, Canada,1976.0,45.5167792,-73.6491776,Summer,XXI
+Lake Placid, United States,1980.0,27.2931,-81.36284599999999,Winter,XIII
+Moscow, Soviet Union,1980.0,55.752222200000006,37.6155548,Summer,XXII
+Sarajevo, Yugoslavia,1984.0,43.85,18.3833332,Winter,XIV
+Los Angeles, United States,1984.0,34.0522342,-118.24368290000001,Summer,XXIII
+Calgary, Canada,1988.0,51.050112299999995,-114.08528899999999,Winter,XV
+Seoul, South Korea,1988.0,37.5663889,126.99972530000001,Summer,XXIV
+Albertville, France,1992.0,45.6755,6.3927,Winter,XVI
+Barcelona, Spain,1992.0,41.3887869,2.1589851,Summer,XXV
+Lillehammer, Norway,1994.0,61.1153,10.4662,Winter,XVII
+Atlanta, United States,1996.0,33.7489954,-84.3879852,Summer,XXVI
+Nagano, Japan,1998.0,36.65,138.1833344,Winter,XVIII
+Sydney, Australia,2000.0,-33.86785,151.2073212,Summer,XXVII
+Salt Lake City, United States,2002.0,40.758701,-111.87618300000001,Winter,XIX
+Athens, Greece,2004.0,37.9833333,23.7333336,Summer,XXVIII
+Turin, Italy,2006.0,45.0703,7.6869,Winter,XX
+Beijing, China,2008.0,39.9074977,116.3972244,Summer,XXIX
+Vancouver, Canada,2010.0,49.2496574,-123.119339,Winter,XXI
+London, United Kingdom,2012.0,51.508415299999996,-0.1255327,Summer,XXX
+Sochi, Russia,2014.0,43.6,39.730278000000006,Winter,XXII
+Rio de Janeiro, Brazil,2016.0,-22.902777800000003,-43.2075005,Summer,XXXI
+Stockholm, Sweden,1956.0,59.3326,18.0649,Summer,XVI
